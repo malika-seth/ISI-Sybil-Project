@@ -1,4 +1,4 @@
-# USC-ISI-ML-Project
+# Study behavioral dynamics of fake/duplicate gaming accounts 
 
 For the past one year, I have been working as a Data Science Research Assistant at Information Sciences Institute (ISI), under the guidance of Yolanda Gil and Fred Morstatter. 
 
